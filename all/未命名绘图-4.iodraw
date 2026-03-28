@@ -268,7 +268,7 @@
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-9" value="APP端服务端&#xa;zft-app-service&#xa;端口:9090&#xa;Spring Boot" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="768" y="691" width="168" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="hN9eqmB3iKDtzqzq2jgO-10" value="MySQL 8.0&#xa;核心业务数据" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="hN9eqmB3iKDtzqzq2jgO-10" value="MySQL 8.0.34&#xa;核心业务数据" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="247" y="890" width="111" height="86" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-11" value="Redis&#xa;缓存/会话" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
