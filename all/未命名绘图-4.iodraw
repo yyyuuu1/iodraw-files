@@ -256,7 +256,7 @@
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-5" value="屏幕端&#xa;Vue3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="538" y="525" width="172" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="hN9eqmB3iKDtzqzq2jgO-6" value="APP端（演示）&#xa;Vue3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="hN9eqmB3iKDtzqzq2jgO-6" value="APP端&#xa;Vue3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="768" y="525" width="168" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-7" value="运营管理服务端&#xa;zft-ops-platform&#xa;端口:8080&#xa;Spring Boot" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
