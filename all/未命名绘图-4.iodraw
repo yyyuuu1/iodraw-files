@@ -269,10 +269,10 @@
           <mxGeometry x="768" y="691" width="168" height="101" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-10" value="MySQL 8.0.34&#xa;核心业务数据" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="247" y="890" width="111" height="86" as="geometry" />
+          <mxGeometry x="552" y="890" width="111" height="86" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-11" value="Redis&#xa;缓存/会话" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="410" y="900" width="87" height="82" as="geometry" />
+          <mxGeometry x="250" y="890" width="87" height="82" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-12" value="阿里云OSS&#xa;文件存储" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="840" y="900" width="134" height="66" as="geometry" />
