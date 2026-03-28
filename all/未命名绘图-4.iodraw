@@ -242,40 +242,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-1" value="数据存储层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="777" width="835" height="136" as="geometry" />
+          <mxGeometry x="190" y="867" width="835" height="136" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-2" value="应用服务层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="60" y="576" width="822" height="151" as="geometry" />
+          <mxGeometry x="210" y="666" width="822" height="151" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-3" value="用户层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="97" y="410" width="724" height="116" as="geometry" />
+          <mxGeometry x="247" y="500" width="724" height="116" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-4" value="Web管理端&#xa;Vue3 + Element Plus" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="132" y="435" width="206" height="66" as="geometry" />
+          <mxGeometry x="282" y="525" width="206" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-5" value="屏幕端（演示）&#xa;Vue3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="388" y="435" width="172" height="66" as="geometry" />
+          <mxGeometry x="538" y="525" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-6" value="APP端（演示）&#xa;Vue3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="618" y="435" width="168" height="66" as="geometry" />
+          <mxGeometry x="768" y="525" width="168" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-7" value="运营管理服务端&#xa;zft-ops-platform&#xa;端口:8080&#xa;Spring Boot" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="146" y="601" width="178" height="101" as="geometry" />
+          <mxGeometry x="296" y="691" width="178" height="101" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-8" value="屏幕端服务端&#xa;zft-applet-service&#xa;端口:9008&#xa;Spring Boot" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="601" width="188" height="101" as="geometry" />
+          <mxGeometry x="530" y="691" width="188" height="101" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-9" value="APP端服务端&#xa;zft-app-service&#xa;端口:9090&#xa;Spring Boot" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="618" y="601" width="168" height="101" as="geometry" />
+          <mxGeometry x="768" y="691" width="168" height="101" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-10" value="MySQL 8.0&#xa;核心业务数据" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="75" y="802" width="111" height="86" as="geometry" />
+          <mxGeometry x="225" y="892" width="111" height="86" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-11" value="Redis&#xa;缓存/会话" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="405" y="804" width="87" height="82" as="geometry" />
+          <mxGeometry x="555" y="894" width="87" height="82" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-12" value="阿里云OSS&#xa;文件存储" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="706" y="812" width="134" height="66" as="geometry" />
+          <mxGeometry x="856" y="902" width="134" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hN9eqmB3iKDtzqzq2jgO-4" target="hN9eqmB3iKDtzqzq2jgO-7">
           <mxGeometry relative="1" as="geometry">
@@ -295,72 +295,72 @@
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=1;entryX=0.43;entryY=0;rounded=0;" edge="1" parent="1" source="hN9eqmB3iKDtzqzq2jgO-7" target="hN9eqmB3iKDtzqzq2jgO-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="118" y="727" />
-              <mxPoint x="118" y="777" />
+              <mxPoint x="268" y="817" />
+              <mxPoint x="268" y="867" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.8;entryY=0;rounded=0;" edge="1" parent="1" source="hN9eqmB3iKDtzqzq2jgO-8" target="hN9eqmB3iKDtzqzq2jgO-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="182" y="727" />
-              <mxPoint x="182" y="777" />
+              <mxPoint x="332" y="817" />
+              <mxPoint x="332" y="867" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.91;entryY=0;rounded=0;" edge="1" parent="1" source="hN9eqmB3iKDtzqzq2jgO-9" target="hN9eqmB3iKDtzqzq2jgO-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="202" y="727" />
-              <mxPoint x="202" y="777" />
+              <mxPoint x="352" y="817" />
+              <mxPoint x="352" y="867" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.45;exitY=1;entryX=0;entryY=0.34;rounded=0;" edge="1" parent="1" source="hN9eqmB3iKDtzqzq2jgO-7" target="hN9eqmB3iKDtzqzq2jgO-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="222" y="727" />
-              <mxPoint x="222" y="777" />
+              <mxPoint x="372" y="817" />
+              <mxPoint x="372" y="867" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.43;exitY=1;entryX=0.54;entryY=0;rounded=0;" edge="1" parent="1" source="hN9eqmB3iKDtzqzq2jgO-8" target="hN9eqmB3iKDtzqzq2jgO-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="454" y="727" />
-              <mxPoint x="454" y="777" />
+              <mxPoint x="604" y="817" />
+              <mxPoint x="604" y="867" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.42;exitY=1;entryX=1;entryY=0.35;rounded=0;" edge="1" parent="1" source="hN9eqmB3iKDtzqzq2jgO-9" target="hN9eqmB3iKDtzqzq2jgO-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="682" y="727" />
-              <mxPoint x="682" y="777" />
+              <mxPoint x="832" y="817" />
+              <mxPoint x="832" y="867" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.64;entryX=0.24;entryY=0.01;rounded=0;" edge="1" parent="1" source="hN9eqmB3iKDtzqzq2jgO-7" target="hN9eqmB3iKDtzqzq2jgO-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="702" y="727" />
-              <mxPoint x="702" y="777" />
+              <mxPoint x="852" y="817" />
+              <mxPoint x="852" y="867" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.39;entryY=0.01;rounded=0;" edge="1" parent="1" source="hN9eqmB3iKDtzqzq2jgO-8" target="hN9eqmB3iKDtzqzq2jgO-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="742" y="727" />
-              <mxPoint x="742" y="777" />
+              <mxPoint x="892" y="817" />
+              <mxPoint x="892" y="867" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1;entryX=0.65;entryY=0.01;rounded=0;" edge="1" parent="1" source="hN9eqmB3iKDtzqzq2jgO-9" target="hN9eqmB3iKDtzqzq2jgO-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="814" y="727" />
-              <mxPoint x="814" y="777" />
+              <mxPoint x="964" y="817" />
+              <mxPoint x="964" y="867" />
             </Array>
           </mxGeometry>
         </mxCell>
