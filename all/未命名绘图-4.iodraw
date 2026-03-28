@@ -278,7 +278,7 @@
           <mxGeometry x="353" y="894" width="87" height="82" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-12" value="阿里云OSS&#xa;文件存储" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="802" y="900" width="134" height="66" as="geometry" />
+          <mxGeometry x="775" y="910" width="134" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="hN9eqmB3iKDtzqzq2jgO-4" target="hN9eqmB3iKDtzqzq2jgO-7">
           <mxGeometry relative="1" as="geometry">
