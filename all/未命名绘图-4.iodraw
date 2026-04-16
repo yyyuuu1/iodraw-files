@@ -275,7 +275,7 @@
           <mxGeometry x="568.5" y="888" width="111" height="86" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-11" value="Redis&#xa;缓存/会话" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="353" y="894" width="87" height="82" as="geometry" />
+          <mxGeometry x="341.5" y="894" width="87" height="82" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-12" value="阿里云OSS&#xa;文件存储" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="775" y="910" width="134" height="66" as="geometry" />
