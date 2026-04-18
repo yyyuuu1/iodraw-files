@@ -245,40 +245,40 @@
           <mxGeometry x="190" y="867" width="835" height="136" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-2" value="应用服务层" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="210" y="666" width="822" height="151" as="geometry" />
+          <mxGeometry x="1260" y="573" width="822" height="151" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-3" value="用户层" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="247" y="500" width="724" height="116" as="geometry" />
+          <mxGeometry x="1297" y="407" width="724" height="116" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-4" value="Web管理端&#xa;Vue3 + Element Plus" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="282" y="525" width="206" height="66" as="geometry" />
+          <mxGeometry x="1332" y="432" width="206" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-5" value="屏幕端&#xa;Vue3" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="538" y="525" width="172" height="66" as="geometry" />
+          <mxGeometry x="1588" y="432" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-6" value="APP端&#xa;Vue3" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="768" y="525" width="168" height="66" as="geometry" />
+          <mxGeometry x="1818" y="432" width="168" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="hN9eqmB3iKDtzqzq2jgO-7" target="hN9eqmB3iKDtzqzq2jgO-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-7" value="运营管理服务端&#xa;zft-ops-platform&#xa;端口:8080&#xa;Spring Boot" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="296" y="691" width="178" height="101" as="geometry" />
+          <mxGeometry x="1346" y="598" width="178" height="101" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-8" value="屏幕端服务端&#xa;zft-applet-service&#xa;端口:9008&#xa;Spring Boot" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="530" y="691" width="188" height="101" as="geometry" />
+          <mxGeometry x="1580" y="598" width="188" height="101" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-9" value="APP端服务端&#xa;zft-app-service&#xa;端口:9090&#xa;Spring Boot" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="768" y="691" width="168" height="101" as="geometry" />
+          <mxGeometry x="1818" y="598" width="168" height="101" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-10" value="MySQL 8.0.34&#xa;核心业务数据" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="568.5" y="888" width="111" height="86" as="geometry" />
+          <mxGeometry x="1618.5" y="795" width="111" height="86" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-11" value="Redis&#xa;缓存/会话" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="353" y="894" width="87" height="82" as="geometry" />
+          <mxGeometry x="1403" y="801" width="87" height="82" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-12" value="阿里云OSS&#xa;文件存储" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="775" y="910" width="134" height="66" as="geometry" />
+          <mxGeometry x="1825" y="817" width="134" height="66" as="geometry" />
         </mxCell>
         <mxCell id="hN9eqmB3iKDtzqzq2jgO-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=18;" parent="1" source="hN9eqmB3iKDtzqzq2jgO-4" target="hN9eqmB3iKDtzqzq2jgO-7" edge="1">
           <mxGeometry relative="1" as="geometry">
